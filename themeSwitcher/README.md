@@ -14,7 +14,7 @@ ThemeSwitcher is a React project that allows users to switch between different t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/y/themeswitcher.git
+git clone https://github.com/Mr-jas91/React-context.git
 ```
 2. Navigate to the project directory:
    ```bash
